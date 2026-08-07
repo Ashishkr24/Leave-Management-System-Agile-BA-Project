@@ -1,143 +1,150 @@
-# 📌 Leave Management System (LMS) – Agile Business Analyst Project
+# 📌 Leave Management System (LMS) - Agile Business Analyst Project
 
 ## 📖 Project Overview
 
-The Leave Management System (LMS) is a role-based web and mobile application designed to automate and streamline the employee leave management process. It enables employees to apply for leave, managers to review and approve requests, and HR teams to configure leave policies and generate reports.
+The Leave Management System (LMS) is an Agile Business Analyst project designed to automate the employee leave management process. The application enables employees to apply for leave, managers to approve or reject requests, and HR administrators to manage leave policies efficiently.
 
-This project demonstrates the responsibilities of a Business Analyst working in an Agile Scrum environment, from requirement gathering through sprint planning and documentation.
-
----
-
-# 🎯 Project Objectives
-
-- Digitize the leave request process
-- Reduce manual paperwork
-- Improve approval turnaround time
-- Increase transparency
-- Provide real-time leave status
-- Enable HR reporting and policy management
+This project demonstrates the responsibilities of a Business Analyst working in an Agile Scrum environment, including requirement analysis, backlog management, user story creation, sprint planning, wireframing, and process modelling.
 
 ---
 
-# 👥 Stakeholders
+# 🎯 Business Objectives
 
-- Employee
-- Manager
-- HR/Admin
-- Business Analyst
-- Product Owner
-- Scrum Master
-- Development Team
-- QA Team
+- Digitize the leave management process.
+- Reduce manual paperwork.
+- Improve approval turnaround time.
+- Increase transparency in leave tracking.
+- Provide employees with real-time leave status.
+- Enable HR to manage leave policies efficiently.
+
+---
+
+# 🏢 Project Domain
+
+**Human Resource Management System (HRMS)**
 
 ---
 
 # 🛠 Methodology
 
 - Agile Scrum
-- Jira
+- Iterative Development
 - Sprint Planning
 - Product Backlog
-- Sprint Backlog
 - User Stories
 - Acceptance Criteria
 
 ---
 
-# 📂 Modules
+# 👥 Stakeholders
 
-### Employee
+- Employee
+- Reporting Manager
+- HR Administrator
+- Product Owner
+- Scrum Master
+- Business Analyst
+- Development Team
+- QA Team
 
-- Apply for Leave
+---
+
+# 📦 Modules
+
+## Employee Module
+
+- Employee Login
+- Apply Leave
 - View Leave Balance
 - Modify Leave Request
 - Cancel Leave Request
+- View Leave History
 - View Leave Status
-- View Leave Policy
 
-### Manager
+### Manager Module
 
 - View Pending Requests
-- Approve / Reject Leave
+- Approve Leave
+- Reject Leave
 - Team Leave Calendar
-- Notifications
 
-### HR
+### HR/Admin Module
 
-- Configure Leave Types
+- Configure Leave Policies
 - HR Override
-- Generate Reports
+- Leave Reports
 
 ---
 
-# 📋 Product Backlog
-
-| ID | User Story | Story Points | Status |
-|----|------------|-------------:|--------|
-| LMS-01 | Apply for Leave | 3 | Complete |
-| LMS-02 | View Leave Balance | 2 | Complete |
-| LMS-03 | View Pending Leave Requests | 2 | To Do |
-| LMS-04 | Approve / Reject Leave | 5 | Complete |
-| LMS-05 | Team Leave Calendar | 3 | In Progress |
-| LMS-06 | Configure Leave Rules | 5 | In Progress |
-| LMS-07 | Generate Reports | 5 | Complete |
-| LMS-08 | Modify / Cancel Leave | 5 | Complete |
-| LMS-09 | Manager Notification | 3 | Complete |
-| LMS-10 | HR Override | 8 | Complete |
-| LMS-11 | View Leave Status | 2 | Complete |
-| LMS-12 | View Leave Policy | 2 | To Do |
-
----
-
-# 📚 Project Deliverables
+# 📚 Agile Deliverables Included
 
 - Project Summary
 - Product Backlog
 - User Stories
 - Acceptance Criteria
+- Story Points
+- Sprint Planning
 - Wireframes
 - Activity Diagrams
-- Sprint Planning
-- Story Points
-- Agile Documentation
 
 ---
 
-# 🧩 Sample User Story
+# 📝 Sample User Story
 
-**LMS-01**
+**US-01**
 
-**As an employee,**
+**As an Employee,**
 
 I want to apply for leave online,
 
-So that my manager can review and approve it digitally.
+So that my manager can approve or reject my request digitally.
 
 ### Acceptance Criteria
 
-- Leave Type is mandatory.
-- Start Date and End Date are mandatory.
-- Leave balance must be validated.
-- Success message should appear after submission.
-- Request status should become **Pending Approval**.
+- Leave type is mandatory.
+- Start date and End date are mandatory.
+- Leave balance should be validated.
+- Success message should be displayed.
+- Leave status should become **Pending Approval**.
 
 ---
 
-# 📊 Sprint Planning
+# 📊 Features
 
-### Sprint 1
-
-- Apply Leave
-- View Leave Balance
-- Modify Leave
-- View Leave Status
-
-### Sprint 2
-
-- Manager Approval
-- HR Override
-- Reports
+- Employee Leave Application
+- Leave Approval Workflow
+- Leave Cancellation
+- Leave Modification
+- Leave Balance Tracking
+- Team Leave Calendar
+- HR Leave Policy Management
+- Leave Reports
 - Notifications
+
+---
+
+# 🧩 Artefacts Included
+
+- Product Backlog
+- User Stories
+- Story Points
+- Sprint Planning
+- Wireframes
+- Activity Diagrams
+
+---
+
+# 💼 Business Analyst Responsibilities
+
+- Requirement Analysis
+- Requirement Prioritization
+- User Story Creation
+- Acceptance Criteria Definition
+- Product Backlog Management
+- Sprint Planning Support
+- Wireframe Preparation
+- Process Modelling
+- Stakeholder Communication
 
 ---
 
@@ -145,39 +152,8 @@ So that my manager can review and approve it digitally.
 
 - Jira
 - Microsoft Word
-- Draw.io
 - Microsoft Excel
-
----
-
-# 💼 My Role as Business Analyst
-
-- Gathered business requirements.
-- Created Agile user stories.
-- Defined acceptance criteria.
-- Designed wireframes.
-- Prepared activity diagrams.
-- Planned product backlog.
-- Assigned story points.
-- Supported sprint planning.
-- Collaborated with developers and QA.
-
----
-
-# 📁 Repository Structure
-
-```
-Leave-Management-System-Agile-BA-Project
-│
-├── Documentation
-├── User Stories
-├── Wireframes
-├── Activity Diagrams
-├── Jira Backlog
-├── Sprint Planning
-├── Images
-└── README.md
-```
+- Draw.io
 
 ---
 
@@ -188,14 +164,33 @@ Leave-Management-System-Agile-BA-Project
 - Requirement Gathering
 - User Story Writing
 - Acceptance Criteria
-- Jira Backlog Management
+- Product Backlog Management
 - Sprint Planning
 - Wireframing
 - Process Modelling
-- Stakeholder Communication
+- Stakeholder Management
 
 ---
 
-## ⭐ About This Project
+# 📂 Repository Contents
 
-This repository showcases a complete Agile Business Analyst project demonstrating how a Leave Management System can be analyzed, planned, and documented using Scrum practices.
+```
+📦 Leave-Management-System-Agile-BA-Project
+│
+├── LMS-AgileProject.pdf
+├── README.md
+```
+
+---
+
+# 🎯 Learning Outcomes
+
+This project demonstrates how a Business Analyst contributes throughout an Agile project by translating business needs into user stories, supporting sprint planning, defining acceptance criteria, preparing wireframes, and collaborating with stakeholders to deliver business value.
+
+---
+
+## 👨‍💻 Author
+
+**Prince Kumar**
+
+Business Analyst Aspirant | SQL | Agile | Jira | Requirement Gathering | BFSI Domain
