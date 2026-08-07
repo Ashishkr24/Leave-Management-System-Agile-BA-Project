@@ -191,6 +191,6 @@ This project demonstrates how a Business Analyst contributes throughout an Agile
 
 ## 👨‍💻 Author
 
-**Prince Kumar**
+**Ashish Kumar**
 
 Business Analyst Aspirant | SQL | Agile | Jira | Requirement Gathering | BFSI Domain
