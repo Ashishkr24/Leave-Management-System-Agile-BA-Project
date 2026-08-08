@@ -177,7 +177,7 @@ So that my manager can approve or reject my request digitally.
 ```
 📦 Leave-Management-System-Agile-BA-Project
 │
-├── LMS-AgileProject.pdf
+├── LMS_Agile_Project_Documentation.pdf
 ├── README.md
 ```
 
